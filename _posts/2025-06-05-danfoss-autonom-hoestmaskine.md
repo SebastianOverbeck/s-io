@@ -41,6 +41,12 @@ Jeg bidrog med:
 
 Vi kombinerede kompetencer på tværs af mekatronik, robotteknologi og produktudvikling og blev tildelt **2. pladsen** 🥈 for vores innovative og praktiske løsning.
 
+### 🎥 Video
+
+Se vores prototype i aktion:
+
+<iframe width="320" height="570" src="https://www.youtube.com/embed/MQzx-glS8Mw" title="Autonom høstmaskine - YouTube Short" frameborder="0" allowfullscreen></iframe>
+
 ---
 
 ![AgriVibe pitch](/assets/img/danfoss-hoest.jpg)
