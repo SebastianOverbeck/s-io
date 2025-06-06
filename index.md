@@ -1,6 +1,6 @@
 ---
 layout: home
-# Index page
+show_content: true
 ---
 # Hej, jeg hedder Sebastian Overbeck
 
@@ -17,14 +17,6 @@ Jeg er civilingeniør (MSc i Produktudvikling og Innovation) og arbejder som fre
    - Udvikling og eksekvering af kampagner  
    - Social media-strategi og indholdsproduktion  
    - Projektstyring og samarbejde på tværs af afdelinger  
-
----
-
-## Hvorfor vælge mig?
-
-- **Tværfaglig erfaring**: Jeg har arbejdet med produktudvikling, bæredygtighed og procesoptimering fra min baggrund i SDU, og jeg kombinerer teknisk forståelse med marketing- og fundraising-kompetencer.  
-- **Kunde­centreret tilgang**: Jeg skræddersyr altid løsninger til dine behov – uanset om det er at sikre økonomisk støtte til dit næste projekt eller at løfte din virksomheds synlighed.  
-- **Dokumenteret track record**: Se mine tidligere projekter og resultater i billed- og case-oversigt i **Archives**.  
 
 ---
 
