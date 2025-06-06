@@ -1,11 +1,11 @@
 ---
-title: "Autonom høstmaskine – SDU x Danfoss Autonomous Hackathon"
+title: "Autonom mandelhøstning – SDU x Danfoss Autonomous Hackathon"
 date: 2021-11-07 12:00:00 +0100
 categories: [Projekter]
-tags: [innovation, robotik, case, autonom]
+tags: [autonomi, innovation, robotik, landbrug, case]
 image:
   path: /assets/img/danfoss-hoest.jpg
-  alt: Prototype af selvkørende traktor
+  alt: Præsentation af AgriVibe-koncept under Autonomous Hackathon
 ---
 
 **Dato:** 5.–7. november 2021  
@@ -14,31 +14,33 @@ image:
 
 ### 🎯 Udfordringen
 
-Under SDU x Danfoss Autonomous Hackathon blev vi udfordret til at udvikle autonome løsninger til landbruget. Vores team valgte at fokusere på en autonom høstmaskine, der kunne optimere høstprocessen og reducere arbejdsomkostninger.
+Under SDU x Danfoss Case Competition 2021 blev vi udfordret til at udvikle autonome løsninger til speciallandbrug. Vores team fokuserede på mandelhøstning i Californien, hvor arbejdsmiljøet er præget af støv, larm og mangel på arbejdskraft – en branche, der har mistet 20 % af sin arbejdsstyrke over 12 år.
 
-### 🔧 Løsningen
+### 🔧 Løsningen – *AgriVibe*
 
-Vi designede og prototype en selvkørende høstmaskine, der kunne navigere autonomt i marken, identificere modne afgrøder og høste dem effektivt. Maskinen blev udstyret med sensorer og AI-algoritmer for at sikre præcision og effektivitet.
+Vi udviklede et koncept for en autonom høstmaskine baseret på eksisterende “tree shakers”, som ryster mandeltræerne. Vores system kunne:
 
-### 🧠 Teamets roller
+- Navigere autonomt (via SLAM og ruteplanlægning)
+- Identificere træer og containere vha. sensorer
+- Ryste træerne uden manuel styring
+- Integrere data og styring via audio processing og telemetri
 
-- **Tobias, Nicklas og Morten:** Stod for mekanikken og konstruktionen af prototypen. De sikrede, at maskinens fysiske dele fungerede optimalt og var robuste nok til de udfordringer, marken bød på.
+### 📈 Forventet effekt
 
-- **Wictor:** Udviklede AI-delen, herunder sensorintegration og databehandling, for at maskinen kunne genkende og reagere på omgivelserne præcist og effektivt.
+- >21.000 medarbejdere undgår sundhedsskadelige forhold
+- Hver farm sparer op til 49.000 USD årligt i lønudgifter
+- Skalerbart til andre afgrøder som valnødder, oliven, kirsebær og druer
+- Understøtter FN’s verdensmål og gør speciallandbrug mere bæredygtigt
 
-- **Andreas og Sebastian:** Håndterede idéudvikling, projektstyring og præsentation. Vi sørgede for, at projektet blev struktureret effektivt, og at løsningen blev kommunikeret klart til dommerpanelet.
+### 🧠 Min rolle
 
-### 🎥 Video
+Jeg bidrog med:
+- Idéudvikling og strukturering af konceptet
+- Udarbejdelse af business case og brugerbehov
+- Præsentation for dommerpanelet
 
-Se vores prototype i aktion:
-
-<iframe width="320" height="570" src="https://www.youtube.com/embed/MQzx-glS8Mw" title="Autonom høstmaskine - YouTube Short" frameborder="0" allowfullscreen></iframe>
-
-
-### 🏁 Resultat
-
-Vores løsning blev anerkendt for sin innovation og potentiale inden for landbruget. Projektet gav os værdifuld erfaring i samarbejde, tværfaglig problemløsning og arbejde med autonome teknologier.
+Vi kombinerede kompetencer på tværs af mekatronik, robotteknologi og produktudvikling og blev tildelt **2. pladsen** 🥈 for vores innovative og praktiske løsning.
 
 ---
 
-![Prototype af traktor](/assets/img/danfoss-hoest.jpg)
+![AgriVibe pitch](/assets/img/danfoss-hoest.jpg)
