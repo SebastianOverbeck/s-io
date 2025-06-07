@@ -9,7 +9,7 @@ image:
 ---
 
 **Periode:** August 2018 – September 2021  
-**Sted:** Danfoss, Nordborg  
+**Sted:** Danfoss, Kolding  
 **Rolle:** Produktionsmedarbejder (fuldtid i sabbatår + weekendansat)
 
 ### 🏭 Om jobbet
