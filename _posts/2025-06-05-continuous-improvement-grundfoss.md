@@ -1,7 +1,7 @@
 ---
 title: "Student Assistant – Continuous Improvement, Grundfos"
 date: 2021-10-01 09:00:00 +0200
-categories: [Erfaring]
+categories: [Karriere]
 tags: [continuous improvement, grundfos, powerapps, produktivitet]
 image:
   path: /assets/img/grundfos-ci.jpg
